@@ -1,0 +1,100 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter/Dart packages
+.packages
+.pub-cache/
+.pub/
+/build/
+.dart_tool/
+
+# Flutter/Dart/Mobile build output
+app.*.symbols.zip
+app-debug.apk
+app-debug.aab
+app-debug.ipa
+app-release.apk
+app-release.aab
+app-release.ipa
+/ios/Flutter/App.framework
+/ios/Flutter/engine.version
+/ios/Flutter/flutter_assets/
+/ios/Flutter/vm_snapshot_data
+/ios/Flutter/isolate_snapshot_data
+
+# Gradles
+.gradle/
+/android/local.properties
+/android/key.properties
+/android/.gradle
+/android/app/build
+/android/build
+
+# Cocoapods
+/ios/Pods/
+/ios/Podfile.lock
+/ios/.symlinks/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+
+# Web
+/web/build/
+/web/.dart_tool/
+
+# Windows
+# Various Visual Studio files
+.vs/
+*.pdb
+*.pdb.meta
+*.sln.docstates
+*.suo
+*.user
+*.userprefs
+*.visualstate
+
+# Rider
+.idea.idea.surf_places.dir/
+.idea.idea.surf_places.dir/.idea/
+.idea.idea.surf_places.dir/.idea/workspace.xml
+*.sln.iml
+/ExportedObj/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Misc
+*.lock
+*.snapshot
+*.keystore
+*.jks
+
+# Generated files
+lib/api/data/*.g.dart
+lib/api/service/*.g.dart 

@@ -1,0 +1,13 @@
+include: package:surf_lint_rules/analysis_options.yaml
+
+analyzer:
+  errors:
+    avoid_print: ignore
+  exclude:
+    - lib/**/*.g.dart
+    - lib/assets/images/**
+    - lib/assets/strings/**
+
+formatter:
+  page_width: 120
+  trailing_commas: preserve
