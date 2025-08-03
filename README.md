@@ -40,7 +40,12 @@
 Ссылка на репозиторий
 
 https://github.com/farrukh-erkinov/my_favorite_places
-Автор
 
+Видео запись проекта:
+
+https://github.com/user-attachments/assets/9892622c-effa-4450-a96e-07586bc38b58
+
+
+Автор
 Farrukh Erkinov
 Участник Flutter Surf Summer School 2025
